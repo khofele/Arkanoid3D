@@ -1,7 +1,9 @@
-PROJEKT-CODE
-https://github.com/khofele/Arkanoid3D
+Nachbau des Spieleklassikers “Arkanoid” zur Einarbeitung in Unity.
+Version: 2021
 
-VIDEO
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+DEMOVIDEO
 https://youtu.be/o8akv9PAhCw
 
 BESCHREIBUNG/FEATURES
@@ -18,4 +20,4 @@ BESCHREIBUNG/FEATURES
 - Das Spiel resettet sich selbst, wenn man nachdem man verloren hat, eine neue Runde startet
 
 QUELLEN
-- Sound: 8BIT Retro Beep aus Vorlesung/Pong-Projekt
+- Sound: 8BIT Retro Beep aus Vorlesung
